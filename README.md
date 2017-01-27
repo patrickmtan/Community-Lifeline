@@ -1,1 +1,1 @@
-# CSPC-49200
+# CSPC-49200 Software System Capstone projects
